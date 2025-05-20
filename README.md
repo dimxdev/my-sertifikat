@@ -3,7 +3,7 @@
 Selamat datang di repositori ini! 🎉  
 Di sini saya menyimpan beberapa sertifikat yang telah saya peroleh.
 
-📁 Semua sertifikat disimpan di dalam folder `sertifikat/`.  
+📁 Semua sertifikat disimpan di dalam folder `my-sertifikat/`.  
 Setiap file mencerminkan topik yang telah saya pelajari.
 
 ---
